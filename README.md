@@ -1,6 +1,6 @@
 # SnakeGame
 
-Simple snake game using C++.  I used the ncurses.h library to implement this game. <br />
+Simple snake game using C++. ```#include <ncurses.h> ```library was used to implement this game <br />
 
 <b> Controls: </b><br />
 * Use the arrow keys for moving UP, DOWN, LEFT, RIGHT. <br />
